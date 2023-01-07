@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+body{
+	font-size: 1.0rem;
+  font-family: "Open Sans", sans-serif;
+  color: #2b3e51;
+    background-position: center;
+  background-size: cover;
+}
+
+p{
+	font-family: "Times New Roman", Times, serif;
+	color:black;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
